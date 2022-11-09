@@ -3,9 +3,9 @@ I'm a data scientist passionate about building machine learning models for trans
 
 
 ## 🚀 About Me
-I'm an MS in Data Science student at The University of Texas at Dallas. I have experience in building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by Stanford University and Data Science Certification by Datacamp.
+I'm an MS in Data Science student at The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx.
 
-I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from marketng, finance, pharmaceutical, retail, manufacturing and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 
 ## 🛠 Skills
