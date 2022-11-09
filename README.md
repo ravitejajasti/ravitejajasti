@@ -5,8 +5,18 @@ I'm a data scientist passionate about building machine learning models for trans
 ## 🚀 About Me
 I'm an MS in Data Science student at The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx.
 
-I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
+## NLP Projects
+1. Topic modeling
+2. Custom pre-processing scripts
+3. Multi-class and Multi-label classification
+4. Sentiment Analysis
+
+## ML Projects
+1. Two-class Customer churn forecasting
+2. Housing loan prediction in Azure Cloud
+3. Flight delay prediction
 
 ## 🛠 Skills
 ### Python
