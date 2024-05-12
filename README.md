@@ -76,4 +76,6 @@ I'm an alumni of The University of Texas at Dallas with a Masters in Business An
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ## Certifications
-### Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx ETL
+1. Python for Data Science (by Datacamp)
+2. Azure Data Scientist (by Microsoft)
+3. Alteryx ETL
