@@ -3,15 +3,14 @@ I'm a Full stack developer and dat science (AI/ML) graduate passionate about tra
 
 
 ## 🚀 About Me
-I'm an alumni of The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx ETL.
-
-I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn etc. I have used these packages/frameworks to automate repetitive tasks and build projects like the ones mentioned below.
 
 ## Web Applications
-1. Plant Nursery Ecommerce application (HEROKU, HTML/CSS/JS, DJANGO)
+1. Plant Nursery Ecommerce application (HEROKU, DJANGO)
 2. Azency Task Management system & Chat (LLMs, HTML/CSS/JS, AJAX, DJANGO, DJANGO REST FRAMEWORK)
 3. Bizfile (ReactJs, DJANGO)
 
+I'm an alumni of The University of Texas at Dallas with a Masters in Business Analytics (Data Science Track). During my masters, NLP/ML and Big Data courses have piqued my interest. I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on Kaggle datasets/projects ranging from marketing, finance, retail and automobile industries to build and deploy machine learning and Natural Language Processing (NLP) models. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling Full stack development and machine learning problems. Thanks.🙂
 
 ## NLP Projects
 1. Topic modeling
@@ -23,6 +22,7 @@ I have spent more than 200 hours of additional coursework in learning, and these
 1. Two-class Customer churn forecasting
 2. Housing loan prediction in Azure Cloud
 3. Flight delay prediction
+
 
 ## 🛠 Skills
 ### Python
@@ -62,9 +62,11 @@ I have spent more than 200 hours of additional coursework in learning, and these
 
 ### Infrastructure
 [![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)]()
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]()
+
 ### BI Tools
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com)
-[![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/)
 
-### Office Suite
-[![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+
+## Certifications
+### Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx ETL
