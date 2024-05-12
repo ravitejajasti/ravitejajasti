@@ -1,11 +1,17 @@
-# Hi, I'm Ravi! 👋
-I'm a data scientist passionate about building machine learning models for transforming tomorrow. Today. I have worked in the areas of marketing, finance and supply chain to create machine learning models that use data and statistical evidence for business strategy optimization.
+# Hi, I'm Venkat Ravi Teja Jasti! 👋
+I'm a Full stack developer and dat science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing working with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
 
 
 ## 🚀 About Me
-I'm an MS in Data Science student at The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx.
+I'm an alumni of The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx ETL.
 
 I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+
+## Web Applications
+1. Plant Nursery Ecommerce application (HEROKU, HTML/CSS/JS, DJANGO)
+2. Azency Task Management system & Chat (LLMs, HTML/CSS/JS, AJAX, DJANGO, DJANGO REST FRAMEWORK)
+3. Bizfile (ReactJs, DJANGO)
+
 
 ## NLP Projects
 1. Topic modeling
