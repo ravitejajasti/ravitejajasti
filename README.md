@@ -5,7 +5,7 @@ I'm a Full stack developer and dat science (AI/ML) graduate passionate about tra
 ## 🚀 About Me
 I'm an alumni of The University of Texas at Dallas. I have experience in building and deploying machine learning and Natural Language Processing (NLP) models. Furthermore, I completed courses such as Python for Data Science (by Datacamp) and Azure Data Scientist (by Microsoft) and Alteryx ETL.
 
-I have spent more than 300 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
+I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on projects ranging from marketng, finance, retail and automobile industries. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling machine learning problems. Thanks.🙂
 
 ## Web Applications
 1. Plant Nursery Ecommerce application (HEROKU, HTML/CSS/JS, DJANGO)
@@ -27,7 +27,7 @@ I have spent more than 300 hours of additional coursework in learning, and these
 ## 🛠 Skills
 ### Python
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
-[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)
 [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
@@ -36,17 +36,21 @@ I have spent more than 300 hours of additional coursework in learning, and these
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org)
-[![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org)
 [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
-[![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
 
 ### SQL
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
 
+### Front End
+[![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 
 ### BI Tools
 [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com)
