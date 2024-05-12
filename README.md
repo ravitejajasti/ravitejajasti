@@ -5,20 +5,20 @@ I'm a Full stack developer and dat science (AI/ML) graduate passionate about tra
 ## 🚀 About Me
 My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn etc. I have used these packages/frameworks to automate repetitive tasks and build projects like the ones mentioned below.
 
-## Web Applications
+### Web Applications
 1. Plant Nursery Ecommerce application (HEROKU, DJANGO)
 2. Azency Task Management system & Chat (LLMs, HTML/CSS/JS, AJAX, DJANGO, DJANGO REST FRAMEWORK)
 3. Bizfile (ReactJs, DJANGO)
 
 I'm an alumni of The University of Texas at Dallas with a Masters in Business Analytics (Data Science Track). During my masters, NLP/ML and Big Data courses have piqued my interest. I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I began to work on Kaggle datasets/projects ranging from marketing, finance, retail and automobile industries to build and deploy machine learning and Natural Language Processing (NLP) models. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling Full stack development and machine learning problems. Thanks.🙂
 
-## NLP Projects
+### NLP Projects
 1. Topic modeling
 2. Custom pre-processing scripts
 3. Multi-class and Multi-label classification
 4. Sentiment Analysis
 
-## ML Projects
+### ML Projects
 1. Two-class Customer churn forecasting
 2. Housing loan prediction in Azure Cloud
 3. Flight delay prediction
