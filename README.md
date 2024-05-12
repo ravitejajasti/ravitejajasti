@@ -1,5 +1,5 @@
-# Hi, I'm Venkat Ravi Teja Jasti! 👋
-I'm a Full stack developer and dat science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing working with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
+# Hi, I'm Venkata Ravi Teja Jasti! 👋
+I'm a full stack developer and data science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing working with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
 
 
 ## 🚀 About Me
