@@ -6,7 +6,7 @@ I'm a Full stack developer and dat science (AI/ML) graduate passionate about tra
 My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn etc. I have used these packages/frameworks to automate repetitive tasks and build projects like the ones mentioned below.
 
 ### Web Applications
-1. Plant Nursery Ecommerce application  - HEROKU CLOUD, DJANGO
+1. Plant Nursery Ecommerce application  - HEROKU CLOUD/ AWS ElasticBeanstalk, DJANGO
 2. Azency Task Management system & Chat - LLMs, HTML/CSS/JS, AJAX, DJANGO, DJANGO REST FRAMEWORK
 3. Bizfile - DJANGO and ReactJs (novice)
 
