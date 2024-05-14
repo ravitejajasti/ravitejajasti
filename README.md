@@ -8,7 +8,7 @@ My journey in software development began with a curiosity about how code transfo
 ### Web Applications
 1. Plant Nursery Ecommerce application  - HEROKU CLOUD/ AWS ElasticBeanstalk, DJANGO
 2. Azency Task Management system & Chat - LLMs, HTML/CSS/JS, AJAX, DJANGO, DJANGO REST FRAMEWORK
-3. Bizfile - DJANGO and ReactJs (novice)
+3. Bizfile - DJANGO and ReactJs (Intermediate)
 
 I'm an alumni of The University of Texas at Dallas with a Masters in Business Analytics (Data Science Track). During my masters, NLP/ML and Big Data courses have piqued my interest. I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I worked on Kaggle datasets/projects ranging from marketing, finance, retail and automobile industries to build and deploy machine learning and Natural Language Processing (NLP) models. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling Full stack development and machine learning problems. Thanks.🙂
 
