@@ -3,7 +3,7 @@ I'm a full stack developer and data science (AI/ML) graduate passionate about tr
 
 
 ## 🚀 About Me
-My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn etc. I have used these packages/frameworks to automate repetitive tasks and build projects like the ones mentioned below.
+My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn, Zeep, NLP/ML - NLTK, pyTorch, Sci-kit Learn etc. I have used these packages/frameworks to automate repetitive tasks, interact with SOAP/Rest APIs, built custom python packages and projects like the ones mentioned below. 
 
 ### Web Applications
 1. Plant Nursery Ecommerce application  - HEROKU CLOUD/ AWS ElasticBeanstalk, DJANGO
