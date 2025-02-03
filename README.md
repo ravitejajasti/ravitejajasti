@@ -1,9 +1,12 @@
 # Hi, I'm Venkata Ravi Teja Jasti! 👋
-I'm a full stack developer and data science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing collaborating with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
+I'm a full stack Engineer, AWS Solutions Architect and a data science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing collaborating with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as Kubernetes, AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
 
 
 ## 🚀 About Me
 My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn, Zeep, NLP/ML - NLTK, pyTorch, Sci-kit Learn etc. I have used these packages/frameworks to automate repetitive tasks, interact with SOAP/Rest APIs, built custom python packages and projects like the ones mentioned below. 
+
+### Current Projects
+1. GEN AI Agents - Architecture Design, FASTAPI, EC2, ReactJs, OpenSearch RAG, LLM Gateway, Kube Clusters, Langchain, LLM Finetuning
 
 ### Web Applications
 1. Plant Nursery Ecommerce application  - HEROKU CLOUD/ AWS ElasticBeanstalk, DJANGO
@@ -55,7 +58,6 @@ I'm an **alumni of The University of Texas at Dallas with a Masters in Business 
 [![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.com/)
