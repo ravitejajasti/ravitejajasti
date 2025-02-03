@@ -6,7 +6,8 @@ I'm a full stack Engineer, AWS Solutions Architect and a data science (AI/ML) gr
 My journey in software development began with a curiosity about how code transforms into dynamic and visual designs. I started with HTML and CSS to design email templates and static web pages. Eventually, I learnt Python and its popular frameworks such as DJANGO, Flask, Pandas, Plotly, Seaborn, Zeep, NLP/ML - NLTK, pyTorch, Sci-kit Learn etc. I have used these packages/frameworks to automate repetitive tasks, interact with SOAP/Rest APIs, built custom python packages and projects like the ones mentioned below. 
 
 ### Current Projects
-1. GEN AI Agents - Architecture Design, FASTAPI, EC2, ReactJs, OpenSearch RAG, LLM Gateway, Kube Clusters, Langchain, LLM Finetuning
+1. GEN AI Agents - Architecture Design, FASTAPI, EC2, ReactJs, OpenSearch RAG, LLM Gateway, Kube Clusters, Langchain, LLM Finetuning, DynamoDB
+2. Lead, maintain and support applications that communicate with Power Grids such as ERCOT/PJM - SOAP API, DASH, AWS Lambdas
 
 ### Web Applications
 1. Plant Nursery Ecommerce application  - HEROKU CLOUD/ AWS ElasticBeanstalk, DJANGO
@@ -15,26 +16,11 @@ My journey in software development began with a curiosity about how code transfo
 
 I'm an **alumni of The University of Texas at Dallas with a Masters in Business Analytics (Data Science Track)**. During my masters, NLP/ML and Big Data courses have piqued my interest. I have spent more than 200 hours of additional coursework in learning, and these courses were influential in my theoretical understanding of machine learning, NLP, and data science. Later, I worked on Kaggle datasets/projects ranging from marketing, finance, retail and automobile industries to build and deploy machine learning and Natural Language Processing (NLP) models. This portfolio is created to demonstrate a wide range of skills that I possess in solving and tackling Full stack development and machine learning problems. Thanks.🙂
 
-### NLP Projects
-1. Topic modeling
-2. Custom pre-processing scripts
-3. Multi-class and Multi-label classification
-4. Sentiment Analysis
-
-### ML Projects
-1. Two-class Customer churn forecasting
-2. Housing loan prediction in Azure Cloud
-3. Flight delay prediction
-
 
 ## 🛠 Skills
 ### Python
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)
 [![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)
-[![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
