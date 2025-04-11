@@ -1,4 +1,4 @@
-# Hi, I'm Venkata Ravi Teja Jasti! 👋
+# Hi, I'm Venkat! 👋
 I'm a full stack Engineer, AWS Solutions Architect and a data science (AI/ML) graduate passionate about transforming tomorrow today. I worked in the industries such as Energy Trading, Software, marketing collaborating with stakeholders, understanding the business requirements and converting those requirements to business applications using technologies such as Kubernetes, AWS/Azure/Heroku, Terraform and Python (DJANGO, DASH, Plotly, NLTK, SciPy) and maintaining them.
 
 
